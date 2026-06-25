@@ -1,0 +1,9 @@
+# Baixe essas bibliotecas
+#pip install rich
+#pip install playsound3
+#pip install nava
+#pip install climage
+#pip install rich-pixels
+
+# Rode o 'main.py'
+# pronto Uaaau
